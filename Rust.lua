@@ -131,7 +131,7 @@ local PYTHON_HANDMADE = false
  
 -----------------------------------------------------------------
 -----------------------------SETTINGS----------------------------
-local CUSTOMIZABLE_SENS = 0.00 --SET UR OWN SENSITIVITY
+local CUSTOMIZABLE_SENS = 1.00 --SET UR OWN SENSITIVITY
 local CUSTOMIZABLE_FOV = 90 --SET UR OWN FOV
 -----------------------------------------------------------------
  
